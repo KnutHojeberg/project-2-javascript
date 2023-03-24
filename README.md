@@ -68,11 +68,9 @@ The score board counts the out come of the games played. This is dictated by the
 <img width="650" alt="" src="assets/images/score-board.png">
 <img width="650" alt="" src="assets/images/results.png">
 
-
-The end of the quiz shows us the amount of questions we answered correctly out of 6 questions. And it also includes a 'Reload' button which will bring you to the first question again and it will reset the timer for you to try the quiz again! Or you select the Go back button and get to the start page.
-
-
-
+Rules
+At the bottom of the site is a short text paragraph that explains the simple rules needed to play and understand the game
+<img width="650" alt="" src="assets/images/rules.png">
 
 Technologies Used
 HTML
@@ -82,20 +80,20 @@ Testing
 Validator testing
 HTML
 No errors were found using W3C HTML validator testing.
-
+<img width="650" alt="" src="assets/images/html-test.png">
 
 
 
 CSS
 No errors were found using W3C CSS validator testing.
-
+<img width="650" alt="" src="assets/images/css-test.png">
 
 JavaScript
 No errors were found using jShint validator testing.
-
+<img width="650" alt="" src="assets/images/js-test.png">
 
 Lighthouse testing
-
+<img width="650" alt="" src="assets/images/lighthouse-test.png">
 
 Testing and Bugs
 Tests have been conducted using Google Chrome, testing different devices and screen resolutions through google dev tools. The following is the bugs I came across:
