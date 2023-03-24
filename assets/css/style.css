@@ -67,3 +67,207 @@ button {
     padding: 50px 0 70px 0;
     font-size: 20px;
 }
+
+/* media queries max width 320px */
+
+@media screen and (max-width: 320px) {
+
+    html,
+    body {
+        overflow-x: hidden;
+    }
+
+    #header {
+        height: 100px;
+    }
+
+    h1 {
+        padding-top: 20px;
+        font-size: 40px;
+    }
+
+    #scores {
+        margin-top: 20px;
+    }
+
+    h3 {
+        padding-top: 20px;
+    }
+
+    #game-choices {
+        display: block;
+        text-align: center;
+
+    }
+
+    button {
+        margin: 20px 0 20px 0;
+    }
+
+    #display-choices {
+        padding-top: 30px;
+    }
+
+    #result-container {
+        font-size: 30px;
+        padding-top: 20px;
+        font-weight: bold;
+    }
+
+    #result {
+        font-size: 25px;
+        display: block;
+        font-weight: initial;
+        padding-top: 30px;
+    }
+
+    #rules {
+        padding: 20px 0 25px 0;
+    }
+
+    h4 {
+        text-decoration: underline;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+}
+
+/* media queries min width 321px */
+
+@media screen and (min-width: 321px) {
+
+    html,
+    body {
+        overflow-x: hidden;
+    }
+
+    #header {
+        height: 100px;
+        line-height: 120px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    #game-choices {
+        display: block;
+        text-align: center;
+
+    }
+
+    button {
+        margin: 20px 0 20px 0;
+    }
+
+    #result-container {
+        font-size: 30px;
+        padding-top: 20px;
+        font-weight: bold;
+    }
+
+    #result {
+        font-size: 25px;
+        display: block;
+        font-weight: initial;
+        padding-top: 30px;
+    }
+
+    #rules {
+        padding: 20px 0 20px 0;
+    }
+
+
+    h4 {
+        text-decoration: underline;
+    }
+
+}
+
+/* media queries min width 375px */
+
+@media screen and (min-width: 375px) {
+
+    html,
+    body {
+        overflow-x: hidden;
+    }
+
+    #header {
+        height: 180px;
+        line-height: 80px;
+    }
+
+    h1 {
+        padding-top: 20px;
+        font-size: 50px;
+    }
+
+    #game-choices {
+        display: block;
+        text-align: center;
+    }
+
+    h3 {
+        padding: 20px 0 20px 0;
+    }
+
+    button {
+        margin: 20px 0 20px 0;
+    }
+
+    #result-container {
+        padding-top: 30px;
+    }
+
+    #result {
+        font-size: 30px;
+        display: block;
+        font-weight: initial;
+        padding-top: 25px;
+    }
+
+    #rules {
+        padding: 20px 0 25px 0;
+    }
+
+    h4 {
+        text-decoration: underline;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+}
+
+/* media queries min width 768px */
+
+@media screen and (min-width: 768px) {
+
+    #header {
+        height: 180px;
+        line-height: 150px;
+    }
+
+    h1 {
+        font-size: 70px;
+    }
+
+    #game-choices {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    #rules {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 25px;
+    }
+
+}
