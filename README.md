@@ -96,15 +96,7 @@ Lighthouse testing
 <img width="650" alt="" src="assets/images/lighthouse-test.png">
 
 Testing and Bugs
-Tests have been conducted using Google Chrome, testing different devices and screen resolutions through google dev tools. The following is the bugs I came across:
-
-The next button was not centered as I wanted.
-Solution; change padding in button and change padding, width and margin in quiz-section. 2.The Timer on the Quiz page carries on to finish and then says "Done" and doesn't reset automatically.
-Solution; The timer resets once the 'Reload' button is clicked.
-The font awsom don't work on the quiz-page. -solution; Add the script of fontawsom in the head of the quiz.html.
-The next button is visible below the relod button without any function. -solution; moved the next button in to the div.
-Got an error when I checked with the console, that javascript was loaded incorrectly.
-Solution: removed javascript from index.html page.
+No bugs were detected through out the tests listed above.
 Deployment
 The development platform used for this project was GitPod. To track the development stage and handle version control regular commits and pushes to GitHub has been conducted. The GitPod environment was created using a template provided by Code Institute.
 
@@ -114,19 +106,17 @@ The procedure for deployment followed the "Creating your site" steps provided in
 
 *Log into Github. *Select the correct GitHub Repository to be deployed live. *Underneath the repository name, click the “Settings” option. *In the sub-section list on the left, under “Code and automation”, click “Pages”. *Within the ”Source” section choose ”main” as Branch and root as folder and click ”Save”. *The page refreshes and a website shall then deploy via a link.
 
-The live deployed link can be found here - https://hannagfrorer.github.io/Dog-quiz/
+The live deployed link can be found here - https://knuthojeberg.github.io/project-2-javascript/
 
 Media
-the image on the start page:https://www.istockphoto.com/es/foto/batiendo-los-o%C3%ADdos-gm93610309-7188469?phrase=dogs%20big%20ear
-
-the image on the quiz page: https://www.istockphoto.com/es/foto/grupo-de-seis-perros-gm1175747279-327534351?phrase=dogs
+All images used for this website were found at: https://icon-library.com/
 
 Acknowledgements
 For inspiration, for code, design help and advice, I'd like to thank;
 
-Martina Terlevic
+Brian O'hare
 
-My wonderful mentor at Code Institute.
+My mentor at Code Institute.
 The Code Institute.
 
 Sources
