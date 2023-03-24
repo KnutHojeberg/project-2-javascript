@@ -27,3 +27,27 @@ h3 {
     font-size: 70px;
     text-align: center;
 }
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    padding: 40px 0 50px 0;
+    font-size: 30px;
+}
+
+#game-choices {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+button {
+    cursor: pointer;
+    border-radius: 50%;
+}
