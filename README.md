@@ -49,11 +49,13 @@ The fonts used for this project were from https://fonts.google.com/
 Images
 The images have been selected according to the purpose of the buttoms where the pictures were used.
 
+
 Features
 Header
 Game Area
-Quiz Section
-Header
+Score board
+Rules
+
 The header consists of the name of the game, "Rock, paper, scissors".
 <img width="650" alt="" src="assets/images/header-pic.png">
 
@@ -61,13 +63,10 @@ Game Area
 The game area contains the three choices you can make to play the game. You use them through clicking the buttom of the "weapon" you want to use.
 <img width="650" alt="" src="assets/images/game-area.png">
 
-
-- The picture on the quiz page is a picture with 6 different dogs standing, sitting and lying down, they also look in different directions and are taken from: https://www.istockphoto.com/se
-
-
-Quiz Section
-The quiz section is a light-coloured box with the question, a timer, three possible answers to each question and radio buttons to mark the answers.
-It also features a next button which takes you to the next question.
+Score board
+The score board counts the out come of the games played. This is dictated by the "reults" bar which is located below the "weapons".
+<img width="650" alt="" src="assets/images/score-board.png">
+<img width="650" alt="" src="assets/images/results.png">
 
 
 The end of the quiz shows us the amount of questions we answered correctly out of 6 questions. And it also includes a 'Reload' button which will bring you to the first question again and it will reset the timer for you to try the quiz again! Or you select the Go back button and get to the start page.
