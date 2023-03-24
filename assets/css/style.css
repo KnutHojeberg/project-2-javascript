@@ -51,3 +51,19 @@ button {
     cursor: pointer;
     border-radius: 50%;
 }
+
+#result-container {
+    padding-top: 50px;
+    font-size: 50px;
+    text-align: center;
+}
+
+#result {
+    font-size: 40px;
+
+}
+
+#rules {
+    padding: 50px 0 70px 0;
+    font-size: 20px;
+}
