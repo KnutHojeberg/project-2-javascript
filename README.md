@@ -37,7 +37,9 @@ User Goals
 To play the fun game Rock, paper, scissors.
 To have fun.
 Design
-
+The background color was choosed to be an calming and playful color due to the demograhpic of the game. This came out to be a dark green color.
+The website used for this was https://www.w3schools.com/colors/colors_palettes.asp
+<img width="650" alt="" src="assets/images/color-palette.png">
 
 This website is two pages, Index.html contains a button stating "Start Quiz", which when clicked will take you to the quiz page: quiz.html. The second link is under the quiz page header with "Go back", which will take you back to the start quiz on the home page.
 
