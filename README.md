@@ -38,33 +38,28 @@ To play the fun game Rock, paper, scissors.
 To have fun.
 Design
 The background color was choosed to be an calming and playful color due to the demograhpic of the game. This came out to be a dark green color.
-The website used for this was https://www.w3schools.com/colors/colors_palettes.asp
-<img width="650" alt="" src="assets/images/color-palette.png">
-
-This website is two pages, Index.html contains a button stating "Start Quiz", which when clicked will take you to the quiz page: quiz.html. The second link is under the quiz page header with "Go back", which will take you back to the start quiz on the home page.
 
 Colour Scheme
-I have chosen the color scale that I have on the website by uploading the image that is doglogo-image-section on the quiz.html page to colors and there created a palette that matches that image.
+The website used for the choice of color was https://www.w3schools.com/colors/colors_palettes.asp
+<img width="650" alt="" src="assets/images/color-palette.png">
 
-I created the palette because I wanted to get an impression of a whole with a soft feel. The colors are a mixture of dark and light in the same tone, which makes it restful for the eyes.
 Typography
 The fonts used for this project were from https://fonts.google.com/
-Icons for the leaves in the header are from https://fontawesome.com/
-The fonts used for the Welcome page and the Quiz page:
+
 Images
-The images have been selected according to the question topic The purpose of the website is to give a soft look and express joy. Images have been resized to match design and texture.
+The images have been selected according to the purpose of the buttoms where the pictures were used.
 
 Features
-Welcome page and start button
-Quiz Header
+Header
+Game Area
 Quiz Section
-Welcome page and start button
-The start page consists of the question: Are you a dog person? As well as a button with the text "Begin quiz", which takes you to the quiz page.
-The picture on the home page is a dog with big flapping ears taken from: https://www.istockphoto.com/se
-dogbigear.jpg
+Header
+The header consists of the name of the game, "Rock, paper, scissors".
+<img width="650" alt="" src="assets/images/header-pic.png">
 
-Quiz Header
-The title of the quiz contains the question How much do you know about dogs? Take this quiz and you'll see, t. It also has a "Go back" button and a paw on the left side.
+Game Area
+The game area contains the three choices you can make to play the game. You use them through clicking the buttom of the "weapon" you want to use.
+<img width="650" alt="" src="assets/images/game-area.png">
 
 
 - The picture on the quiz page is a picture with 6 different dogs standing, sitting and lying down, they also look in different directions and are taken from: https://www.istockphoto.com/se
